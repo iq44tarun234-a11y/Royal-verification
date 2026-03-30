@@ -11,7 +11,7 @@ CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 GUILD_ID = "1477632935149441044"
 ROLE_ID = "1485905236009816154"
 
-REDIRECT_URI = "https://YOUR_RENDER_LINK/callback"
+REDIRECT_URI = "https://royal-verification.onrender.com"
 # ================== #
 
 @app.route("/")
